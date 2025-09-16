@@ -1,0 +1,21 @@
+<p>This is a paragraph</p>
+<b>Tanvi wale</b>
+<br></br>
+<u>paragraph</u>
+<h1>main headings (Avengers)</h1>
+<h2>ironman</h2>
+<h3>thor</h3>
+<h4>hulk</h4>
+<h5>captain america</h5>
+<h6>spider man</h6>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Hello world</p>
+</body>
+</html>
