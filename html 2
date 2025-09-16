@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+    <p>Sample Graph sample graph sample graph sample graph sample graph sample graph sample graph sample graph sample graph sample graph</p>
+    <a href="https:\\www.google.com/">Google</a>
+    <br />
+    <a href="https://code.visualstudio.com/download">Download vs code</a>
+    <br/>
+
+<a href="/Hello.html"> Go to Hello</a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOs3iEeui712dlKDqdjcTJ3uTGNsz3NvdG0g&s"/>
+<br/>
+<b>BOLD</b>
+<br/>
+<i>italic</i>
+<br/>
+<u>underline</u>
+<br/>
+<br/>
+<u>sample graph</u> sample graph sample graph
+<br/>
+<big>my name is Tanvii</big>
+<br/>
+<hr>
+<small>my name is Tanvii</small>
+<br/>
+<p>H<sub>2</sub>O</p>
+<hr>
+<p>3<sup>2</sup>=9</p>
+<br/>
+<pre>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit fuga dolorem, eaque quasi numquam amet dignissimos autem molestiae modi, eveniet odio quia culpa dolorum vero odit aliquam! Soluta, aliquam necessitatibus.                                                                                  ipsum dolor sit amet consectetur adipisicing elit. Sapiente dolor autem harum quidem nisi expedita omnis eius culpa dolorum commodi laboriosam, minima quae qui vel possimus magni? Doloremque, sapiente earum.</pre>
+</body>
+</html>
